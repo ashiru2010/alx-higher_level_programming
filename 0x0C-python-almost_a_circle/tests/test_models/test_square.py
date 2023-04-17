@@ -1,21 +1,3 @@
-
-amirgambo
-/
-alx-higher_level_programming
-Public
-Code
-Issues
-Pull requests
-Actions
-Projects
-Security
-Insights
-Beta Try the new code view
-alx-higher_level_programming/0x0C-python-almost_a_circle/tests/test_models/test_square.py
-@amirgambo
-amirgambo Python - Almost a circle
- 1 contributor
-Executable File  274 lines (243 sloc)  8.72 KB
 #!/usr/bin/python3
 """Unittest for square.py file
 """

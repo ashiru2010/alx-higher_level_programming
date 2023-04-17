@@ -1,21 +1,3 @@
-
-amirgambo
-/
-alx-higher_level_programming
-Public
-Code
-Issues
-Pull requests
-Actions
-Projects
-Security
-Insights
-Beta Try the new code view
-alx-higher_level_programming/0x0C-python-almost_a_circle/models/base.py
-@amirgambo
-amirgambo Python - Almost a circle
- 1 contributor
-Executable File  232 lines (195 sloc)  6.72 KB
 #!/usr/bin/python3
 """Module base"""
 import json
